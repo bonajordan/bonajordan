@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bonajordan
 - 👀 I’m interested in anything related to the Python Programming language
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science projects
+- 🖥 Data Scientist
+- 🤝 Available for collaborations/jobs on Data Science and Web Scraping projects
 - 📫 How to reach me umehbg16128@gmail.com
 
 <!---
