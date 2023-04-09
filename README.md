@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bonajordan
 - 👀 I’m interested in anything related to the Python Programming language
-- 🖥 Data Scientist, Machine Learning Engineer
+- 🖥 Data Science, Machine Learning, Web Scraping, RESTful API development
 - 🤝 Available for collaborations/jobs on Data Science and Web Scraping projects
 - 📫 How to reach me umehbg16128@gmail.com
 
